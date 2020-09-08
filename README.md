@@ -14,7 +14,7 @@ Del mismo modo, se puede controlar los ingresos.
 
 MUY IMPORTANTE. Es necesario tener la versión mínima del jre de Java versión 1.7 Link : https://www.oracle.com/java/technologies/javase-jre8-downloads.html
 
-También es necesario tener Xampp o Wammp, algo para la genstión de la Base de Datos de Mysql usada en este proyecto, ya que se necesita almacenar datos de productos, precios, etc..
+También es necesario tener Xampp o Wammp, algo para la gestión de la Base de Datos de Mysql usada en este proyecto, ya que se necesita almacenar datos de productos, precios, etc..
 Link: https://www.apachefriends.org/es/index.html
 
 Espero que puedan usarlo y les guste.
